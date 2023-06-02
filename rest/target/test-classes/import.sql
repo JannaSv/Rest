@@ -1,0 +1,1 @@
+INSERT INTO customers (id, first_name, last_name, address, budget) VALUES (1, 'Ivan', 'Ivanov', '123abc', 100.00);
